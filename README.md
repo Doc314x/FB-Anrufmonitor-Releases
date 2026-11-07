@@ -12,7 +12,7 @@ Rückwärtssuche, Notizen und Wählen übers Festnetz (auch per Rufnummern-Link 
 
 **Voraussetzungen:** Windows 10 (1809) oder Windows 11, 64 Bit; AVM Fritz!Box.
 
-Installierte Versionen prüfen täglich auf Updates und aktualisieren sich per Klick.
+Installierte Versionen prüfen regelmäßig auf Updates und aktualisieren sich per Klick.
 Jedes Setup liegt mit SHA-256-Prüfsumme (`.sha256`) bei; die App prüft sie vor jedem Update.
 
 **Hinweis:** Das Setup ist noch nicht digital signiert. Bei aktivem Windows Smart App Control kann es blockiert werden.
