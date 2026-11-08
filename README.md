@@ -6,7 +6,7 @@ Rückwärtssuche, Notizen und Wählen übers Festnetz (auch per Rufnummern-Link 
 ## Download und Installation
 
 1. Aktuelle Version unter **[Releases](../../releases/latest)** herunterladen (`FB-Anrufmonitor-Setup-x.y.z.exe`).
-2. Setup ausführen – keine Admin-Rechte nötig, die .NET-Laufzeit ist enthalten.
+2. Setup ausführen – wahlweise nur für mich (ohne Admin-Rechte) oder für alle Benutzer; die .NET-Laufzeit ist enthalten.
 3. Einmalig den Callmonitor der Fritz!Box aktivieren: an einem angeschlossenen Telefon `#96*5*` wählen.
 4. Beim ersten Start die Fritz!Box-Daten in den Einstellungen eintragen.
 
