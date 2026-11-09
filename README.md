@@ -27,8 +27,6 @@ unter „Ankommende Anrufe“ eine Rufnummer zugewiesen sein; fehlt sie, weist d
 **Gesprächsaufnahmen** liegen unter `Dokumente\FB-Anrufmonitor\Aufnahmen`. Ein Gespräch darf nur mit Einverständnis
 aller Beteiligten aufgenommen werden (§ 201 StGB).
 
-**Gespräche am DECT aufnehmen:** Die Anruf-Karte und das Tray-Menü bieten „Aufnehmen“. Die App nutzt dafür den Paketmitschnitt der Fritz!Box und braucht den Fritz!Box-Zugang aus den Einstellungen. Das geht nur bei Gesprächen über den Internetanschluss mit unverschlüsseltem Ton.
-
 **Hinweis:** Das Setup ist noch nicht digital signiert. Bei aktivem Windows Smart App Control kann es blockiert werden.
 
 Dieses Repository enthält ausschließlich die Installationsdateien.
