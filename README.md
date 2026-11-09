@@ -27,6 +27,8 @@ unter „Ankommende Anrufe“ eine Rufnummer zugewiesen sein; fehlt sie, weist d
 **Gesprächsaufnahmen** liegen unter `Dokumente\FB-Anrufmonitor\Aufnahmen`. Ein Gespräch darf nur mit Einverständnis
 aller Beteiligten aufgenommen werden (§ 201 StGB).
 
+**Konferenz:** „Teilnehmer hinzufügen“ auf der Gesprächskarte ruft eine weitere Nummer an; sobald sie annimmt, hören sich alle gegenseitig. Wie viele gleichzeitig gehen, begrenzt dein Anschluss.
+
 **Hinweis:** Das Setup ist noch nicht digital signiert. Bei aktivem Windows Smart App Control kann es blockiert werden.
 
 Dieses Repository enthält ausschließlich die Installationsdateien.
