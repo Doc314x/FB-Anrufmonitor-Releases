@@ -2,6 +2,7 @@
 
 Anrufmonitor für die AVM Fritz!Box (Windows) – Anrufanzeige, vollständige Anrufliste, Kontakte aus der Fritz!Box,
 Rückwärtssuche, Notizen und Wählen übers Festnetz (auch per Rufnummern-Link oder Strg+Alt+W aus jedem Programm).
+Dazu Telefonieren direkt am PC mit Headset oder Mikrofon und Lautsprecher, auf Wunsch mit Gesprächsaufnahme.
 
 ## Download und Installation
 
@@ -14,6 +15,15 @@ Rückwärtssuche, Notizen und Wählen übers Festnetz (auch per Rufnummern-Link 
 
 Installierte Versionen prüfen regelmäßig auf Updates und aktualisieren sich per Klick.
 Jedes Setup liegt mit SHA-256-Prüfsumme (`.sha256`) bei; die App prüft sie vor jedem Update.
+
+## Telefonieren am PC
+
+Die App meldet sich als IP-Telefon an der Fritz!Box an. Die Schritte stehen in der App unter
+*Einstellungen → Wählen & Aktionen → Anleitung …*. Für eingehende Anrufe am PC muss dem IP-Telefon in der Fritz!Box
+unter „Ankommende Anrufe“ eine Rufnummer zugewiesen sein; fehlt sie, weist die App beim Start darauf hin.
+
+**Gesprächsaufnahmen** liegen unter `Dokumente\FB-Anrufmonitor\Aufnahmen`. Ein Gespräch darf nur mit Einverständnis
+aller Beteiligten aufgenommen werden (§ 201 StGB).
 
 **Hinweis:** Das Setup ist noch nicht digital signiert. Bei aktivem Windows Smart App Control kann es blockiert werden.
 
