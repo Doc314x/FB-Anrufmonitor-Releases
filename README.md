@@ -22,6 +22,8 @@ Die App meldet sich als IP-Telefon an der Fritz!Box an. Die Schritte stehen in d
 *Einstellungen → Wählen & Aktionen → Anleitung …*. Für eingehende Anrufe am PC muss dem IP-Telefon in der Fritz!Box
 unter „Ankommende Anrufe“ eine Rufnummer zugewiesen sein; fehlt sie, weist die App beim Start darauf hin.
 
+**Tasten am Headset:** Klingelt es am PC, nimmt ein kurzer Druck an, im Gespräch legt er auf, und die Stumm-Taste schaltet dasselbe wie „Stumm“ in der Gesprächskarte. Das braucht ein Headset mit Telefonie-Kanal (HID), getestet mit dem USB-Dongle Shokz Loop110. Direkt per Bluetooth gekoppelte Headsets wurden nicht getestet.
+
 **Gesprächsaufnahmen** liegen unter `Dokumente\FB-Anrufmonitor\Aufnahmen`. Ein Gespräch darf nur mit Einverständnis
 aller Beteiligten aufgenommen werden (§ 201 StGB).
 
